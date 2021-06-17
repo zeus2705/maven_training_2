@@ -10,5 +10,8 @@
         <module name="lernejo-tester" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sample" target="16" />
+    </bytecodeTargetLevel>
   </component>
 </project>
